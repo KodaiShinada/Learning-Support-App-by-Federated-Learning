@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "question": "nonchalant",
+        "options": [
+            "頑固な",
+            "無関心な",
+            "明白な",
+            "細かい"
+        ],
+        "answer": "無関心な"
+    },
+    {
+        "id": 2,
+        "question": "hypothetical",
+        "options": [
+            "うんざりしている",
+            "無秩序な",
+            "偶像破壊者",
+            "仮説の"
+        ],
+        "answer": "仮説の"
+    },
+    {
+        "id": 3,
+        "question": "laconic",
+        "options": [
+            "簡潔な",
+            "発見的な",
+            "細かい",
+            "そよ風"
+        ],
+        "answer": "簡潔な"
+    },
+    {
+        "id": 4,
+        "question": "ambiguous",
+        "options": [
+            "率直な",
+            "あいまいな",
+            "独立した",
+            "気まぐれな"
+        ],
+        "answer": "あいまいな"
+    },
+    {
+        "id": 5,
+        "question": "candid",
+        "options": [
+            "保守的な",
+            "あいまいな",
+            "率直な",
+            "不確実な"
+        ],
+        "answer": "率直な"
+    },
+    {
+        "id": 6,
+        "question": "derive",
+        "options": [
+            "排除する",
+            "引き出す",
+            "溶かす",
+            "挑む"
+        ],
+        "answer": "引き出す"
+    },
+    {
+        "id": 7,
+        "question": "eccentric",
+        "options": [
+            "同情的な",
+            "無関心な",
+            "風変わりな",
+            "典型的な"
+        ],
+        "answer": "風変わりな"
+    },
+    {
+        "id": 8,
+        "question": "frivolous",
+        "options": [
+            "軽薄な",
+            "重要な",
+            "実用的な",
+            "厳格な"
+        ],
+        "answer": "軽薄な"
+    },
+    {
+        "id": 9,
+        "question": "gregarious",
+        "options": [
+            "社交的な",
+            "内向的な",
+            "個別の",
+            "無関心な"
+        ],
+        "answer": "社交的な"
+    },
+    {
+        "id": 10,
+        "question": "inherent",
+        "options": [
+            "固有の",
+            "無関係な",
+            "外部の",
+            "短期間の"
+        ],
+        "answer": "固有の"
+    },
+    {
+        "id": 11,
+        "question": "meticulous",
+        "options": [
+            "細かい",
+            "あいまいな",
+            "無関心な",
+            "率直な"
+        ],
+        "answer": "細かい"
+    },
+    {
+        "id": 12,
+        "question": "nostalgia",
+        "options": [
+            "革新的",
+            "現代的",
+            "郷愁",
+            "先進的"
+        ],
+        "answer": "郷愁"
+    },
+    {
+        "id": 13,
+        "question": "obstinate",
+        "options": [
+            "柔軟な",
+            "頑固な",
+            "協調性のある",
+            "素直な"
+        ],
+        "answer": "頑固な"
+    },
+    {
+        "id": 14,
+        "question": "paradox",
+        "options": [
+            "直接的",
+            "同義語",
+            "真実",
+            "逆説"
+        ],
+        "answer": "逆説"
+    },
+    {
+        "id": 15,
+        "question": "quintessential",
+        "options": [
+            "異常な",
+            "典型的な",
+            "普通の",
+            "非典型的"
+        ],
+        "answer": "典型的な"
+    },
+    {
+        "id": 16,
+        "question": "rhetoric",
+        "options": [
+            "修辞",
+            "手短に",
+            "無言",
+            "事実"
+        ],
+        "answer": "修辞"
+    },
+    {
+        "id": 17,
+        "question": "stoic",
+        "options": [
+            "禁欲的な",
+            "感情的な",
+            "情熱的な",
+            "激動の"
+        ],
+        "answer": "禁欲的な"
+    },
+    {
+        "id": 18,
+        "question": "trivial",
+        "options": [
+            "些細な",
+            "重大な",
+            "重要な",
+            "大規模な"
+        ],
+        "answer": "些細な"
+    },
+    {
+        "id": 19,
+        "question": "ubiquitous",
+        "options": [
+            "限定的",
+            "珍しい",
+            "至る所に存在する",
+            "稀"
+        ],
+        "answer": "至る所に存在する"
+    },
+    {
+        "id": 20,
+        "question": "vindictive",
+        "options": [
+            "忘れやすい",
+            "復讐心の強い",
+            "気前が良い",
+            "寛容な"
+        ],
+        "answer": "復讐心の強い"
+    },
+    {
+        "id": 21,
+        "question": "nonchalant",
+        "options": [
+            "細かい",
+            "頑固な",
+            "明白な",
+            "無関心な"
+        ],
+        "answer": "無関心な"
+    },
+    {
+        "id": 22,
+        "question": "hypothetical",
+        "options": [
+            "無秩序な",
+            "うんざりしている",
+            "偶像破壊者",
+            "仮説の"
+        ],
+        "answer": "仮説の"
+    },
+    {
+        "id": 23,
+        "question": "laconic",
+        "options": [
+            "簡潔な",
+            "発見的な",
+            "そよ風",
+            "細かい"
+        ],
+        "answer": "簡潔な"
+    },
+    {
+        "id": 24,
+        "question": "ambiguous",
+        "options": [
+            "あいまいな",
+            "独立した",
+            "率直な",
+            "気まぐれな"
+        ],
+        "answer": "あいまいな"
+    },
+    {
+        "id": 25,
+        "question": "candid",
+        "options": [
+            "保守的な",
+            "率直な",
+            "あいまいな",
+            "不確実な"
+        ],
+        "answer": "率直な"
+    },
+    {
+        "id": 26,
+        "question": "derive",
+        "options": [
+            "挑む",
+            "溶かす",
+            "排除する",
+            "引き出す"
+        ],
+        "answer": "引き出す"
+    },
+    {
+        "id": 27,
+        "question": "eccentric",
+        "options": [
+            "風変わりな",
+            "同情的な",
+            "典型的な",
+            "無関心な"
+        ],
+        "answer": "風変わりな"
+    },
+    {
+        "id": 28,
+        "question": "frivolous",
+        "options": [
+            "厳格な",
+            "実用的な",
+            "軽薄な",
+            "重要な"
+        ],
+        "answer": "軽薄な"
+    },
+    {
+        "id": 29,
+        "question": "gregarious",
+        "options": [
+            "無関心な",
+            "社交的な",
+            "内向的な",
+            "個別の"
+        ],
+        "answer": "社交的な"
+    },
+    {
+        "id": 30,
+        "question": "inherent",
+        "options": [
+            "短期間の",
+            "外部の",
+            "固有の",
+            "無関係な"
+        ],
+        "answer": "固有の"
+    },
+    {
+        "id": 31,
+        "question": "meticulous",
+        "options": [
+            "無関心な",
+            "率直な",
+            "細かい",
+            "あいまいな"
+        ],
+        "answer": "細かい"
+    },
+    {
+        "id": 32,
+        "question": "nostalgia",
+        "options": [
+            "革新的",
+            "現代的",
+            "郷愁",
+            "先進的"
+        ],
+        "answer": "郷愁"
+    },
+    {
+        "id": 33,
+        "question": "obstinate",
+        "options": [
+            "協調性のある",
+            "素直な",
+            "頑固な",
+            "柔軟な"
+        ],
+        "answer": "頑固な"
+    },
+    {
+        "id": 34,
+        "question": "paradox",
+        "options": [
+            "真実",
+            "同義語",
+            "直接的",
+            "逆説"
+        ],
+        "answer": "逆説"
+    },
+    {
+        "id": 35,
+        "question": "quintessential",
+        "options": [
+            "典型的な",
+            "普通の",
+            "非典型的",
+            "異常な"
+        ],
+        "answer": "典型的な"
+    },
+    {
+        "id": 36,
+        "question": "rhetoric",
+        "options": [
+            "手短に",
+            "無言",
+            "修辞",
+            "事実"
+        ],
+        "answer": "修辞"
+    },
+    {
+        "id": 37,
+        "question": "stoic",
+        "options": [
+            "激動の",
+            "禁欲的な",
+            "情熱的な",
+            "感情的な"
+        ],
+        "answer": "禁欲的な"
+    },
+    {
+        "id": 38,
+        "question": "trivial",
+        "options": [
+            "重大な",
+            "重要な",
+            "些細な",
+            "大規模な"
+        ],
+        "answer": "些細な"
+    },
+    {
+        "id": 39,
+        "question": "ubiquitous",
+        "options": [
+            "限定的",
+            "稀",
+            "珍しい",
+            "至る所に存在する"
+        ],
+        "answer": "至る所に存在する"
+    },
+    {
+        "id": 40,
+        "question": "vindictive",
+        "options": [
+            "忘れやすい",
+            "寛容な",
+            "復讐心の強い",
+            "気前が良い"
+        ],
+        "answer": "復讐心の強い"
+    },
+    {
+        "id": 41,
+        "question": "nonchalant",
+        "options": [
+            "無関心な",
+            "細かい",
+            "頑固な",
+            "明白な"
+        ],
+        "answer": "無関心な"
+    },
+    {
+        "id": 42,
+        "question": "hypothetical",
+        "options": [
+            "無秩序な",
+            "うんざりしている",
+            "偶像破壊者",
+            "仮説の"
+        ],
+        "answer": "仮説の"
+    },
+    {
+        "id": 43,
+        "question": "laconic",
+        "options": [
+            "簡潔な",
+            "細かい",
+            "発見的な",
+            "そよ風"
+        ],
+        "answer": "簡潔な"
+    },
+    {
+        "id": 44,
+        "question": "ambiguous",
+        "options": [
+            "気まぐれな",
+            "あいまいな",
+            "率直な",
+            "独立した"
+        ],
+        "answer": "あいまいな"
+    },
+    {
+        "id": 45,
+        "question": "candid",
+        "options": [
+            "不確実な",
+            "あいまいな",
+            "率直な",
+            "保守的な"
+        ],
+        "answer": "率直な"
+    },
+    {
+        "id": 46,
+        "question": "derive",
+        "options": [
+            "引き出す",
+            "挑む",
+            "溶かす",
+            "排除する"
+        ],
+        "answer": "引き出す"
+    },
+    {
+        "id": 47,
+        "question": "eccentric",
+        "options": [
+            "風変わりな",
+            "典型的な",
+            "同情的な",
+            "無関心な"
+        ],
+        "answer": "風変わりな"
+    },
+    {
+        "id": 48,
+        "question": "frivolous",
+        "options": [
+            "軽薄な",
+            "実用的な",
+            "重要な",
+            "厳格な"
+        ],
+        "answer": "軽薄な"
+    },
+    {
+        "id": 49,
+        "question": "gregarious",
+        "options": [
+            "無関心な",
+            "社交的な",
+            "個別の",
+            "内向的な"
+        ],
+        "answer": "社交的な"
+    },
+    {
+        "id": 50,
+        "question": "inherent",
+        "options": [
+            "外部の",
+            "短期間の",
+            "固有の",
+            "無関係な"
+        ],
+        "answer": "固有の"
+    },
+    {
+        "id": 51,
+        "question": "meticulous",
+        "options": [
+            "あいまいな",
+            "無関心な",
+            "率直な",
+            "細かい"
+        ],
+        "answer": "細かい"
+    },
+    {
+        "id": 52,
+        "question": "nostalgia",
+        "options": [
+            "現代的",
+            "郷愁",
+            "先進的",
+            "革新的"
+        ],
+        "answer": "郷愁"
+    },
+    {
+        "id": 53,
+        "question": "obstinate",
+        "options": [
+            "素直な",
+            "協調性のある",
+            "頑固な",
+            "柔軟な"
+        ],
+        "answer": "頑固な"
+    },
+    {
+        "id": 54,
+        "question": "paradox",
+        "options": [
+            "同義語",
+            "直接的",
+            "真実",
+            "逆説"
+        ],
+        "answer": "逆説"
+    },
+    {
+        "id": 55,
+        "question": "quintessential",
+        "options": [
+            "異常な",
+            "典型的な",
+            "普通の",
+            "非典型的"
+        ],
+        "answer": "典型的な"
+    },
+    {
+        "id": 56,
+        "question": "rhetoric",
+        "options": [
+            "事実",
+            "修辞",
+            "無言",
+            "手短に"
+        ],
+        "answer": "修辞"
+    },
+    {
+        "id": 57,
+        "question": "stoic",
+        "options": [
+            "感情的な",
+            "激動の",
+            "禁欲的な",
+            "情熱的な"
+        ],
+        "answer": "禁欲的な"
+    },
+    {
+        "id": 58,
+        "question": "trivial",
+        "options": [
+            "重要な",
+            "重大な",
+            "些細な",
+            "大規模な"
+        ],
+        "answer": "些細な"
+    },
+    {
+        "id": 59,
+        "question": "ubiquitous",
+        "options": [
+            "珍しい",
+            "至る所に存在する",
+            "稀",
+            "限定的"
+        ],
+        "answer": "至る所に存在する"
+    },
+    {
+        "id": 60,
+        "question": "vindictive",
+        "options": [
+            "復讐心の強い",
+            "寛容な",
+            "忘れやすい",
+            "気前が良い"
+        ],
+        "answer": "復讐心の強い"
+    },
+    {
+        "id": 61,
+        "question": "nonchalant",
+        "options": [
+            "明白な",
+            "頑固な",
+            "無関心な",
+            "細かい"
+        ],
+        "answer": "無関心な"
+    },
+    {
+        "id": 62,
+        "question": "hypothetical",
+        "options": [
+            "無秩序な",
+            "うんざりしている",
+            "仮説の",
+            "偶像破壊者"
+        ],
+        "answer": "仮説の"
+    },
+    {
+        "id": 63,
+        "question": "laconic",
+        "options": [
+            "細かい",
+            "発見的な",
+            "そよ風",
+            "簡潔な"
+        ],
+        "answer": "簡潔な"
+    },
+    {
+        "id": 64,
+        "question": "ambiguous",
+        "options": [
+            "独立した",
+            "気まぐれな",
+            "率直な",
+            "あいまいな"
+        ],
+        "answer": "あいまいな"
+    },
+    {
+        "id": 65,
+        "question": "candid",
+        "options": [
+            "不確実な",
+            "保守的な",
+            "率直な",
+            "あいまいな"
+        ],
+        "answer": "率直な"
+    },
+    {
+        "id": 66,
+        "question": "derive",
+        "options": [
+            "挑む",
+            "引き出す",
+            "溶かす",
+            "排除する"
+        ],
+        "answer": "引き出す"
+    },
+    {
+        "id": 67,
+        "question": "eccentric",
+        "options": [
+            "風変わりな",
+            "無関心な",
+            "同情的な",
+            "典型的な"
+        ],
+        "answer": "風変わりな"
+    },
+    {
+        "id": 68,
+        "question": "frivolous",
+        "options": [
+            "厳格な",
+            "軽薄な",
+            "実用的な",
+            "重要な"
+        ],
+        "answer": "軽薄な"
+    },
+    {
+        "id": 69,
+        "question": "gregarious",
+        "options": [
+            "内向的な",
+            "無関心な",
+            "社交的な",
+            "個別の"
+        ],
+        "answer": "社交的な"
+    },
+    {
+        "id": 70,
+        "question": "inherent",
+        "options": [
+            "短期間の",
+            "外部の",
+            "固有の",
+            "無関係な"
+        ],
+        "answer": "固有の"
+    },
+    {
+        "id": 71,
+        "question": "meticulous",
+        "options": [
+            "無関心な",
+            "細かい",
+            "率直な",
+            "あいまいな"
+        ],
+        "answer": "細かい"
+    },
+    {
+        "id": 72,
+        "question": "nostalgia",
+        "options": [
+            "現代的",
+            "先進的",
+            "革新的",
+            "郷愁"
+        ],
+        "answer": "郷愁"
+    },
+    {
+        "id": 73,
+        "question": "obstinate",
+        "options": [
+            "素直な",
+            "頑固な",
+            "協調性のある",
+            "柔軟な"
+        ],
+        "answer": "頑固な"
+    },
+    {
+        "id": 74,
+        "question": "paradox",
+        "options": [
+            "真実",
+            "逆説",
+            "直接的",
+            "同義語"
+        ],
+        "answer": "逆説"
+    },
+    {
+        "id": 75,
+        "question": "quintessential",
+        "options": [
+            "非典型的",
+            "異常な",
+            "典型的な",
+            "普通の"
+        ],
+        "answer": "典型的な"
+    },
+    {
+        "id": 76,
+        "question": "rhetoric",
+        "options": [
+            "無言",
+            "手短に",
+            "事実",
+            "修辞"
+        ],
+        "answer": "修辞"
+    },
+    {
+        "id": 77,
+        "question": "stoic",
+        "options": [
+            "禁欲的な",
+            "情熱的な",
+            "激動の",
+            "感情的な"
+        ],
+        "answer": "禁欲的な"
+    },
+    {
+        "id": 78,
+        "question": "trivial",
+        "options": [
+            "些細な",
+            "大規模な",
+            "重要な",
+            "重大な"
+        ],
+        "answer": "些細な"
+    },
+    {
+        "id": 79,
+        "question": "ubiquitous",
+        "options": [
+            "珍しい",
+            "限定的",
+            "稀",
+            "至る所に存在する"
+        ],
+        "answer": "至る所に存在する"
+    },
+    {
+        "id": 80,
+        "question": "vindictive",
+        "options": [
+            "忘れやすい",
+            "復讐心の強い",
+            "気前が良い",
+            "寛容な"
+        ],
+        "answer": "復讐心の強い"
+    },
+    {
+        "id": 81,
+        "question": "nonchalant",
+        "options": [
+            "無関心な",
+            "細かい",
+            "頑固な",
+            "明白な"
+        ],
+        "answer": "無関心な"
+    },
+    {
+        "id": 82,
+        "question": "hypothetical",
+        "options": [
+            "仮説の",
+            "うんざりしている",
+            "無秩序な",
+            "偶像破壊者"
+        ],
+        "answer": "仮説の"
+    },
+    {
+        "id": 83,
+        "question": "laconic",
+        "options": [
+            "簡潔な",
+            "発見的な",
+            "細かい",
+            "そよ風"
+        ],
+        "answer": "簡潔な"
+    },
+    {
+        "id": 84,
+        "question": "ambiguous",
+        "options": [
+            "率直な",
+            "気まぐれな",
+            "あいまいな",
+            "独立した"
+        ],
+        "answer": "あいまいな"
+    },
+    {
+        "id": 85,
+        "question": "candid",
+        "options": [
+            "不確実な",
+            "保守的な",
+            "率直な",
+            "あいまいな"
+        ],
+        "answer": "率直な"
+    },
+    {
+        "id": 86,
+        "question": "derive",
+        "options": [
+            "引き出す",
+            "溶かす",
+            "挑む",
+            "排除する"
+        ],
+        "answer": "引き出す"
+    },
+    {
+        "id": 87,
+        "question": "eccentric",
+        "options": [
+            "同情的な",
+            "風変わりな",
+            "無関心な",
+            "典型的な"
+        ],
+        "answer": "風変わりな"
+    },
+    {
+        "id": 88,
+        "question": "frivolous",
+        "options": [
+            "厳格な",
+            "実用的な",
+            "重要な",
+            "軽薄な"
+        ],
+        "answer": "軽薄な"
+    },
+    {
+        "id": 89,
+        "question": "gregarious",
+        "options": [
+            "個別の",
+            "無関心な",
+            "内向的な",
+            "社交的な"
+        ],
+        "answer": "社交的な"
+    },
+    {
+        "id": 90,
+        "question": "inherent",
+        "options": [
+            "無関係な",
+            "短期間の",
+            "固有の",
+            "外部の"
+        ],
+        "answer": "固有の"
+    },
+    {
+        "id": 91,
+        "question": "meticulous",
+        "options": [
+            "率直な",
+            "細かい",
+            "あいまいな",
+            "無関心な"
+        ],
+        "answer": "細かい"
+    },
+    {
+        "id": 92,
+        "question": "nostalgia",
+        "options": [
+            "郷愁",
+            "革新的",
+            "先進的",
+            "現代的"
+        ],
+        "answer": "郷愁"
+    },
+    {
+        "id": 93,
+        "question": "obstinate",
+        "options": [
+            "頑固な",
+            "協調性のある",
+            "素直な",
+            "柔軟な"
+        ],
+        "answer": "頑固な"
+    },
+    {
+        "id": 94,
+        "question": "paradox",
+        "options": [
+            "同義語",
+            "直接的",
+            "逆説",
+            "真実"
+        ],
+        "answer": "逆説"
+    },
+    {
+        "id": 95,
+        "question": "quintessential",
+        "options": [
+            "非典型的",
+            "典型的な",
+            "異常な",
+            "普通の"
+        ],
+        "answer": "典型的な"
+    },
+    {
+        "id": 96,
+        "question": "rhetoric",
+        "options": [
+            "無言",
+            "手短に",
+            "修辞",
+            "事実"
+        ],
+        "answer": "修辞"
+    },
+    {
+        "id": 97,
+        "question": "stoic",
+        "options": [
+            "感情的な",
+            "情熱的な",
+            "禁欲的な",
+            "激動の"
+        ],
+        "answer": "禁欲的な"
+    },
+    {
+        "id": 98,
+        "question": "trivial",
+        "options": [
+            "些細な",
+            "重要な",
+            "重大な",
+            "大規模な"
+        ],
+        "answer": "些細な"
+    },
+    {
+        "id": 99,
+        "question": "ubiquitous",
+        "options": [
+            "限定的",
+            "稀",
+            "珍しい",
+            "至る所に存在する"
+        ],
+        "answer": "至る所に存在する"
+    },
+    {
+        "id": 100,
+        "question": "vindictive",
+        "options": [
+            "復讐心の強い",
+            "気前が良い",
+            "寛容な",
+            "忘れやすい"
+        ],
+        "answer": "復讐心の強い"
+    }
+]
