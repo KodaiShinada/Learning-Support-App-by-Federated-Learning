@@ -76,7 +76,7 @@
     <div class="quiz-container">
         <div class="status-bar">問題数: {{ index + 1 }} / {{ total_questions }} | 正答数: {{ correct_answers }}</div>
         <div class="question">{{ question['question'] }}</div>
-        <form action="/" method="post">
+        <form action="/submit" method="POST">
             <ul class="options">
                 {% for option in question['options'] %}
                 <li>
