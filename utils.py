@@ -1,14 +1,17 @@
 import torch
 import json
+import random
 
-def load_data():
-    with open('English_Quiz.json', 'r', encoding='utf-8') as file:
+def get_random_questions(data, num_questions=30):
+    return random.sample(data, num_questions)
+
+def load_data(filepath):
+    with open(filepath, 'r') as file:
         data = json.load(file)
+    return data
 
-    questions = [item["question"] for item in data]
-    answers = [item["answer"] for item in data]
-
-    questions_tensor = torch.tensor(questions, dtype=torch.long)
-    answers_tensor = torch.tensor(answers, dtype=torch.long)
-
-    return questions_tensor, answers_tensor
+def select_questions(model, all_questions, num_questions=30):
+    probabilities = model(all_questions)  # 誤答は正の重み
+    weights = probabilities + (all_questions * -0.5)  # 正解は負の重み
+    selected_questions = torch.topk(weights, num_questions)
+    return selected_questions.indices
