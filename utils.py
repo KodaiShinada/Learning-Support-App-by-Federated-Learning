@@ -1,6 +1,20 @@
 import torch
 import json
 import random
+from model import QuizNet
+
+def load_model(model_path):
+    model = QuizNet()  # モデルのアーキテクチャを初期化
+    model.load_state_dict(torch.load(model_path))
+    model.eval()
+    return model
+
+
+def load_questions(filepath='questions.json'):
+    """指定されたJSONファイルからクイズデータを読み込む"""
+    with open(filepath, 'r', encoding='utf-8') as file:
+        questions = json.load(file)
+    return questions
 
 def get_random_questions(data, num_questions=30):
     return random.sample(data, num_questions)

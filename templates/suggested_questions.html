@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AIが出題する四択クイズ</title>
+    <title>AIが提案する四択クイズ</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -32,7 +32,7 @@
             background-color: #222;
             padding: 20px;
             border-radius: 10px;
-            margin-top: 70px; /* adjust based on header height */
+            margin-top: 70px;
         }
         .status-bar {
             text-align: right;
@@ -66,20 +66,20 @@
     </style>
 </head>
 <body>
-    <div class="quiz-header">AIが出題する四択クイズ</div>
+    <div class="quiz-header">AIが提案する四択クイズ</div>
     <div class="quiz-container">
         <div class="question-section">
             <div class="status-bar">問題数: {{ index + 1 }} / {{ total_questions }}</div>
-            <div class="question">(ID:{{ question.id }}) {{ question.question }}</div>
-            <form action="{{ url_for('submit_suggested' if 'suggested_questions' in session else 'submit') }}" method="POST">
+            <div class="question">(ID:{{ question_id }}) {{ question['question'] }}</div>
+            <form action="/submit_suggested" method="POST">
                 <ul class="options">
-                    {% for option in question.options %}
+                    {% for option in question['options'] %}
                     <li>
                         <button class="option-button" type="submit" name="answer" value="{{ option }}">{{ option }}</button>
                     </li>
                     {% endfor %}
                 </ul>
-                <input type="hidden" name="question_id" value="{{ question.id }}">
+                <input type="hidden" name="question_id" value="{{ question_id }}">
             </form>
         </div>
     </div>

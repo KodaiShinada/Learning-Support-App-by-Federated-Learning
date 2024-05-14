@@ -2,53 +2,51 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Quiz Results</title>
+    <title>クイズの結果</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
+            color: #FFF;
             background-color: #333;
-            color: white;
+            margin: 0;
+            padding: 0;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             height: 100vh;
-            margin: 0;
-            padding: 0;
         }
         .results-container {
+            width: 700px;
             background-color: #222;
             padding: 20px;
             border-radius: 10px;
             text-align: center;
         }
-        h1 {
-            margin: 0 0 20px 0;
-        }
-        .summary {
+        .result {
             font-size: 24px;
             margin-bottom: 20px;
         }
-        a {
-            display: inline-block;
-            background-color: #555;
-            color: white;
+        .button {
             padding: 10px 20px;
+            background-color: #555;
+            border: none;
             border-radius: 5px;
-            text-decoration: none;
+            color: white;
+            cursor: pointer;
             transition: background-color 0.3s;
+            margin: 5px;
         }
-        a:hover {
+        .button:hover {
             background-color: #777;
         }
     </style>
 </head>
 <body>
     <div class="results-container">
-        <h1>クイズの結果</h1>
-        <div class="summary">
-            あなたの正答数は {{ correct_answers }} / {{ total_questions }} です。
-        </div>
-        <a href="/">もう一度挑戦する</a>
+        <div class="result">正答数: {{ correct_answers }} / {{ total_questions }}</div>
+        <a href="/" class="button">再挑戦</a>
+        <a href="/suggest_questions" class="button">AIの提案で再挑戦</a>
     </div>
 </body>
 </html>
